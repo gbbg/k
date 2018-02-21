@@ -1,6 +1,11 @@
 K
 ==========
 2018-02:
+
+Note below approach did NOT work, because ```source``` only takes a file, see this link:
+https://apple.stackexchange.com/questions/80027/source-a-script-from-a-url-in-bash
+
+
 ```bash
 cd
 source <(curl -s https://raw.githubusercontent.com/gbbg/k/master/k_aliases.sh)
