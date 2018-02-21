@@ -1,5 +1,13 @@
 K
 ==========
+2018-02:
+```bash
+cd
+source <(curl -s https://raw.githubusercontent.com/gbbg/k/master/k_aliases.sh)
+```
+
+
+
 2016-02-06
 
 
