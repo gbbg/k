@@ -1,6 +1,14 @@
 K
 ==========
-2018-02:
+2018-02-21: Get aliases loaded in two lines:
+```bash
+sh <(curl -s https://raw.githubusercontent.com/gbbg/k/master/load_aliases.sh)
+```
+
+Follow instructions after running above to load
+
+
+2018-02: failed attempt
 
 Note below approach did NOT work, because ```source``` only takes a file, see this link:
 https://apple.stackexchange.com/questions/80027/source-a-script-from-a-url-in-bash
